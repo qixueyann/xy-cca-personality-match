@@ -1,4 +1,4 @@
-# xy-cca-personality-match
+# xy-cca-personality-match .
 
 print("Title of program: CCA Matching Personality test")
 print()
